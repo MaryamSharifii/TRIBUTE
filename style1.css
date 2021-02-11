@@ -1,0 +1,29 @@
+/* page oreginal */
+body{
+    background-color:#8fbaf3;    
+}
+nav{
+    background-color: rgb(120, 26, 209);
+    border-radius: 30px;
+}
+li{
+    display: inline-block;
+    padding: 45px;
+    font-size: 0.5cm;
+}
+.ragnar{
+    height:450px;
+    width: 450px;
+}
+.text{
+    display: flex;
+}
+
+/* 
+.figtitle{
+    color: #222;
+    font-weight: 400;
+}
+.figauthor{
+    text-align: center;
+} */
