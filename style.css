@@ -1,15 +1,19 @@
 * {
-    background: #252d40;
-    font-family: "Segoe print", serif;
+    background: #151a25;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+  
   }
   body {
     color: #81dfcc;
+  }
+  p{
+    line-height: 40px;
   }
   #title {
     text-align: center;
   }
   h1 span {
-    border: 4px dashed #dffaf1;
+    border: 4px dotted #f39111;
     border-radius: 30px 10px;
     padding: 10px;
   }
@@ -42,16 +46,19 @@
   }
   li {
     list-style-type: upper-roman;
+    line-height: 40px;
   }
   #img2 {
     display: block;
     max-width: 100%;
     height: auto;
     text-align: center;
+    border: 3px dashed #ff8100;
+    border-radius: 50px 10px;
   }
   hr {
     border: none;
-    border-bottom: 3px dotted #b0c4de;
+    border-bottom: 3px dashed #b0c4de;
   }
   
   #name,
